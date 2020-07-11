@@ -1,4 +1,4 @@
-![Header Image](https://imgur.com/rmjaVEw)
+![Header Image](https://imgur.com/rmjaVEw.png)
 
 ### Hello, Welcome to my Github 👋
 
