@@ -1,7 +1,5 @@
 ## Hello, Welcome to my Github 👋
 
-#### I'm Frontend Developer + Designer 👨‍💻 based in Pune, India 🇮🇳. Apart from my regular job, I push my creative side projects to github mostly on weekends 🎉. 
-
 #### Check out my portfolio page 👀
 >  https://www.sanketkumbhar.com 
 
