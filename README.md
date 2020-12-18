@@ -1,7 +1,5 @@
 ## Hello, Welcome to my Github 👋
 
-#### Check out my portfolio page 👀
->  https://www.sanketkumbhar.com 
 
 #### Connect with me on any social platform 🤝
 
