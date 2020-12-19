@@ -1,12 +1,10 @@
 ## Hello, Welcome to my Github 👋
 
+-- 🔭 Currently working as Frontend Developer 
 
-#### Connect with me on any social platform 🤝
+#### Connect with me 🤝
 
-- [Twitter](https://twitter.com/12sanketkumbhar)
-- [Instagram](https://www.instagram.com/12sanketkumbhar)
-- [LinkedIn](https://www.linkedin.com/in/sanketkumbhar/)
-- [Telegram](http://t.me/sanketkumbhar)
+- www.sanketkumbhar.com
 
 
 
