@@ -2,9 +2,9 @@
 
 -- 🔭 Currently working as Frontend Developer 
 
-#### Connect with me 🤝
+<!-- #### Connect with me 🤝
 
-- www.sanketkumbhar.com
+- www.sanketkumbhar.com -->
 
 
 
